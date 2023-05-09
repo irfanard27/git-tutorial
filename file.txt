@@ -1,2 +1,4 @@
 ini file
 
+hasil edit dari branch -> dev2
+
